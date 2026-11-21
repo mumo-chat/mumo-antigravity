@@ -11,6 +11,11 @@
 - **`skills/mumo/references/`** — reference docs: `reading-reactions`, `writing-reactions`, `model-selection`, `synthesis`, `takeaway`, `operating-notes`.
 - **`assets/logo.png`** — mumo plugin icon.
 
+## Requirements
+
+- Google Antigravity with the Antigravity CLI (`agy`).
+- A mumo account. Sign up at [mumo.chat](https://mumo.chat); every account gets free credit each month.
+
 ## Install
 
 ### 1. Install the plugin with Antigravity CLI
@@ -40,6 +45,17 @@ Before running a full deliberation, smoke-test the connection with a read-only c
 > Ask mumo to list available models.
 
 That hits `list_models` over your signed-in connection. Getting your plan's model list back confirms the OAuth grant is active and the mumo tools (`create_deliberation`, `ask_a_model`, `wait_for_round`, `append_round`, `get_session`, `share_session`, `list_sessions`, `list_models`, `get_credit`) are reachable.
+
+## Updating and removing
+
+To update, uninstall and install again from the same address:
+
+```bash
+agy plugin uninstall mumo
+agy plugin install https://github.com/mumo-chat/mumo-antigravity
+```
+
+Your sign-in is kept. To remove the plugin, run `agy plugin uninstall mumo`; to also revoke its access to your mumo account, remove **Google Antigravity** under Connected apps as described above.
 
 ## Using the panel
 
