@@ -1,0 +1,21 @@
+{
+  "mcpServers": {
+    "mumo": {
+      "serverUrl": "https://mumo.chat/api/mcp/oauth",
+      "tools": {
+        "create_deliberation": {
+          "eager": true
+        },
+        "ask_a_model": {
+          "eager": true
+        },
+        "wait_for_round": {
+          "eager": true
+        },
+        "append_round": {
+          "eager": true
+        }
+      }
+    }
+  }
+}
