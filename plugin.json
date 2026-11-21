@@ -12,9 +12,11 @@
   ],
   "author": {
     "name": "mumo",
+    "email": "support@mumo.chat",
     "url": "https://mumo.chat"
   },
   "homepage": "https://mumo.chat/install/antigravity",
+  "repository": "https://github.com/mumo-chat/mumo-antigravity",
   "license": "MIT",
   "keywords": [
     "mcp",
