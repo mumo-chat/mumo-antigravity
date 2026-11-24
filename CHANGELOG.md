@@ -1,5 +1,17 @@
 # Changelog
 
+## 0.9.1 — 2026-11-24
+
+mumo is in the Antigravity Marketplace. This release rewrites the listing for people who find it there.
+
+- Install leads with the Marketplace: a three-step flow in the Desktop app with no terminal, then `agy plugin install mumo@antigravity-plugins-partners` for the CLI. Installing from this repository still works.
+- Requirements: a Google account is enough, and your first sign-in creates your mumo account. mumo is available in the United States and Canada, excluding Quebec.
+- New "Your data" section: sessions run through this plugin are used only to answer your request.
+- New description and a single-model suggested prompt. A quick single-model example follows the verify step.
+- The default panel for a free account has two models; name others to add them.
+- Skill setup: signing in again is described for the Desktop app's Accounts tab as well as the CLI, and a region refusal is relayed without a retry.
+- Links to the Privacy Policy, Terms of Service and support.
+
 ## 0.9.0 — 2026-11-21
 
 Coordinated client release rendered from the mumo-mcp 0.9.0 baseline. It goes with mumo MCP server 1.4.0.

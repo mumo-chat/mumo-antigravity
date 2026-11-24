@@ -2,13 +2,13 @@
   "$schema": "https://antigravity.google/schemas/v1/plugin.json",
   "name": "mumo",
   "displayName": "mumo",
-  "version": "0.9.0",
-  "description": "Multi-model deliberation panel. Diverse AI voices + claim-level reactions on contested decisions.",
+  "version": "0.9.1",
+  "description": "Bring Claude, GPT, Muse, Kimi & more into Antigravity. Run a multi-model panel with cross-model reactions, or ask one model for a second opinion.",
   "logo": "assets/logo.png",
   "suggestedPrompts": [
     "Ask mumo to list available models",
     "Ask mumo to review this design and tell me where the models disagree",
-    "Ask mumo for a second opinion from another lab on this tradeoff"
+    "Ask mumo what GPT thinks of this plan"
   ],
   "author": {
     "name": "mumo",
