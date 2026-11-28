@@ -2,8 +2,8 @@
   "$schema": "https://antigravity.google/schemas/v1/plugin.json",
   "name": "mumo",
   "displayName": "mumo",
-  "version": "0.9.2",
-  "description": "Bring Claude, GPT, Muse, Kimi & more into Antigravity. Run a multi-model panel with cross-model reactions, or ask one model for a second opinion.",
+  "version": "0.9.3",
+  "description": "Bring Claude, GPT, Muse, Kimi & more into Antigravity. Run a multi-model panel with cross-model reactions, or ask one model for a second opinion. US & Canada only.",
   "logo": "assets/logo.png",
   "suggestedPrompts": [
     "Ask mumo to list available models",

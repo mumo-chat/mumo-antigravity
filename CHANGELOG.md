@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.9.3 — 2026-11-27
+
+- Marketplace description notes US & Canada availability up front (`US & Canada only.`).
+
 ## 0.9.2 — 2026-11-24
 
 Skill notes for mumo MCP server 1.6.0.
