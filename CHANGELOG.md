@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.9.4 — 2026-11-28
+
+- Replace the Marketplace `suggestedPrompts` with three round-starting prompts (a cold-start Postgres vs. MongoDB comparison, an open project decision review, and an adversarial architectural-risk challenge).
+
 ## 0.9.3 — 2026-11-27
 
 - Marketplace description notes US & Canada availability up front (`US & Canada only.`).

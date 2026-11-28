@@ -2,13 +2,13 @@
   "$schema": "https://antigravity.google/schemas/v1/plugin.json",
   "name": "mumo",
   "displayName": "mumo",
-  "version": "0.9.3",
+  "version": "0.9.4",
   "description": "Bring Claude, GPT, Muse, Kimi & more into Antigravity. Run a multi-model panel with cross-model reactions, or ask one model for a second opinion. US & Canada only.",
   "logo": "assets/logo.png",
   "suggestedPrompts": [
-    "Ask mumo to list available models",
-    "Ask mumo to review this design and tell me where the models disagree",
-    "Ask mumo what GPT thinks of this plan"
+    "Use mumo to ask Claude and GPT: Postgres or MongoDB for a new SaaS app? Show me where they agree and disagree, then give me your recommendation.",
+    "Pick one open decision in this project and use mumo to get Claude and GPT's take on it. Tell me which decision you picked, where they agree and disagree, and what you would do.",
+    "Summarize what we're building and the biggest architectural risk you see, then use mumo to have Claude and GPT challenge your take."
   ],
   "author": {
     "name": "mumo",
